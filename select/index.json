@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "頂戴な",
+  "base_artist": "MIMI",
+  "createdAt": "2026-03-09T18:46:28.445330Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "頂戴な (feat. 沖石)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_頂戴な_(feat._沖石)_MIMI.txt"
+    }
+  ]
+}
